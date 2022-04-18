@@ -9,15 +9,18 @@ TagManager:
   - Enemy
   - Missile
   - Victim
-  - TappingPlane
+  - LaughPlane
   - Boss
-  - TooHigh
-  - OutOfArea
+  - FxTemporaire
+  - TacklingPlane
+  - SlingShotter
+  - FailPlane
+  - JumpingPlane
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - sling
   - Water
   - UI
   - 
